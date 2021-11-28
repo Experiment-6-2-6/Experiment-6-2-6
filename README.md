@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris@Experiment-6-2-6
-- 👀 I’m interested in Selfdevelopement and Data Science
-- 🌱 I’m currently learning R
+- 👀 I'm interested in continuous self development, data science and linguistics.
+- 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on ... Well, too early for colaboration. I'm just learning.
 - 📫 How to reach me ... Emmm... If you know you know.
 
